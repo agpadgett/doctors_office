@@ -1,12 +1,12 @@
-# Application Name
+# Doctors office
 
-##### _{Brief description of application}, {Date of current version}_
+##### _doctor's office patient list, 090815_
 
-#### By **Molly Waggett**
+#### By Molly Waggett and Andrea Padgett
 
 ## Description
 
-{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}
+Allows doctors to be assocaited with patients, and to have specialties 
 
 ## Setup
 
@@ -28,7 +28,7 @@
 
 ### Legal
 
-Copyright (c) 2015 **Molly Waggett**
+Copyright (c) 2015 Molly Waggett and Andrea Padgett
 
 This software is licensed under the MIT license.
 
